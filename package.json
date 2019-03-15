@@ -1,0 +1,24 @@
+{
+  "name": "cms-server",
+  "version": "1.0.0",
+  "description": "Content Management System with MEVN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nd2k/CMS-Server.git"
+  },
+  "author": "nd2k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nd2k/CMS-Server/issues"
+  },
+  "homepage": "https://github.com/nd2k/CMS-Server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^11.11.0"
+  }
+}
